@@ -22,17 +22,17 @@ Algorithmic sports betting systems traditionally focus on profit maximization, o
 ### 1. Capital Preservation & Growth
 RBO prevents catastrophic ruin in negative-EV markets (left) and ensures steady, less volatile growth in positive-EV "sharp" markets (right), significantly outperforming standard Kelly strategies in safety.
 
-![Bankroll Trajectories](figures/fig7c_bankroll_dual.png)
+![Bankroll Trajectories](fig7c_bankroll_dual.png)
 
 ### 2. Behavioral Monitoring Dashboard
 The system dynamically monitors behavioral risk. As the risk score (bottom panel, red line) rises, RBO automatically dampens stake sizes (middle panel) to prevent spiraling losses.
 
-![Behavioral Monitoring](figures/fig15_behavioral_monitoring.png)
+![Behavioral Monitoring](fig15_behavioral_monitoring.png)
 
 ### 3. Performance Across Leagues
 RBO's safety benefits are consistent across different European football leagues, maintaining low drawdown and tail risk regardless of the specific market conditions.
 
-![Performance Heatmap](figures/fig12c_heatmap_dual.png)
+![Performance Heatmap](fig12c_heatmap_dual.png)
 
 ## Installation & Usage
 
