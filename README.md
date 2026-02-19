@@ -62,6 +62,11 @@ If you use this code or framework in your research, please cite:
 
 > **Responsible Bankroll Optimization with Harm-Aware Constraints and Governance**
 > *R. M. Galekwa et al.*
+## 🙏 Acknowledgments
+
+- [Football-Data.co.uk](https://www.football-data.co.uk/) for historical match data
+- [Club Elo](http://clubelo.com/) for Elo rating methodology
+- Scikit-learn team for the excellent ML library
 
 ## License
 
